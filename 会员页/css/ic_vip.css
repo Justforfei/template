@@ -1,0 +1,94 @@
+
+.icvip{ display:inline-block;width:24px;height:14px;background:url(../img/ic_vip.png) no-repeat 0 999em;overflow:hidden;}
+.icvip00{ background-position: 0 0}
+.icvip01{ background-position: -26px 0}
+.icvip02{ background-position: -52px 0}
+.icvip03{ background-position: -78px 0}
+.icvip04{ background-position: -104px 0}
+.icvip05{ background-position: -130px 0}
+.icvip06{ background-position: -156px 0}
+.icvip07{ background-position: -182px 0}
+
+.icvip00hui{ background-position: 0 -15px}
+.icvip01hui{ background-position: -26px -16px}
+.icvip02hui{ background-position: -52px -16px}
+.icvip03hui{ background-position: -78px -16px}
+.icvip04hui{ background-position: -104px -16px}
+.icvip05hui{ background-position: -130px -16px}
+.icvip06hui{ background-position: -156px -16px}
+.icvip07hui{ background-position: -182px -16px}
+
+.icnian{width:16px;height:16px; background-position: -208px 0px}
+.icnianhui{width:16px;height:16px; background-position: -208px -20px}
+.icshuai{width:16px;height:16px; background-position: -226px 0}
+.icshuaihui{width:16px;height:16px; background-position: -226px -20px}
+.icbao{width:15px;height:16px; background-position: -244px 0}
+.icbaohui{width:15px;height:16px; background-position: -244px -20px}
+.icgrow{ width:10px;background-position: -266px 1px;}
+.icdown{ width:10px;background-position: -266px -20px;}
+.icgold{width:15px;height:14px; background-position: -282px 0}
+.icgoldhui{width:15px;height:14px; background-position: -282px -20px}
+
+.icqiye{width:16px;height:16px; background-position: -208px -39px}
+.icqiyehui{width:16px;height:16px; background-position: -208px -57px}
+.ichongren{width:16px;height:16px; background-position: -226px -39px}
+.ichongrenhui{width:16px;height:16px; background-position: -226px -57px}
+
+
+.iczuan{width:16px;height:14px;}
+.icz01{background-position: 0px -68px}
+.icz02{background-position: -20px -68px}
+.icz03{background-position: -40px -68px}
+.icz04{background-position: -60px -68px}
+.icz05{background-position: -80px -68px}
+.icz06{background-position: -100px -68px}
+.icz07{background-position: -120px -68px}
+
+.icminivip{width:16px;height:14px;}
+.icmini01{background-position: 0px -86px}
+.icmini02{background-position: -20px -86px}
+.icmini03{background-position: -40px -86px}
+.icmini04{background-position: -60px -86px}
+.icmini05{background-position: -80px -86px}
+.icmini06{background-position: -100px -86px}
+.icmini07{background-position: -120px -86px}
+
+.icchengvip{width:17px;height:14px;}
+.iccheng{width:16px;height:16px; background-position: -264px -39px}
+.icchenghui{width:16px;height:16px; background-position: -264px -57px}
+
+.iccheng01{background-position: 0px -104px}
+.iccheng02{background-position: -20px -104px}
+.iccheng03{background-position: -40px -104px}
+.iccheng04{background-position: -60px -104px}
+.iccheng05{background-position: -80px -104px}
+.iccheng06{background-position: -100px -104px}
+.iccheng07{background-position: -120px -104px}
+.iccheng01hui{background-position: 0px -120px}
+.iccheng02hui{background-position: -20px -120px}
+.iccheng03hui{background-position: -40px -120px}
+.iccheng04hui{background-position: -60px -120px}
+.iccheng05hui{background-position: -80px -120px}
+.iccheng06hui{background-position: -100px -120px}
+.iccheng07hui{background-position: -120px -120px}
+
+.icgoldvip{ width:18px; height:16px;display:inline-block;background:url(../img/ic_vip.png) no-repeat 0 999em;overflow:hidden;}
+.icgold00{background-position: 0 -31px}
+.icgold01{background-position: -26px -31px}
+.icgold02{ background-position: -52px -31px}
+.icgold03{ background-position: -78px -31px}
+.icgold04{ background-position: -104px -31px}
+.icgold05{ background-position: -130px -31px}
+.icgold06{ background-position: -156px -31px}
+.icgold07{ background-position: -182px -31px}
+.icgold00hui{background-position: 0 -49px}
+.icgold01hui{background-position: -26px -49px}
+.icgold02hui{ background-position: -52px -49px}
+.icgold03hui{ background-position: -78px -49px}
+.icgold04hui{ background-position: -104px -49px}
+.icgold05hui{ background-position: -130px -49px}
+.icgold06hui{ background-position: -156px -49px}
+.icgold07hui{ background-position: -182px -49px}
+
+.icdongjie{width:16px;height:16px; background-position: -244px -39px}
+.icdongjiehui{width:16px;height:16px; background-position: -244px -57px}

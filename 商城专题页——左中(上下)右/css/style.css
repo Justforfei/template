@@ -1,0 +1,38 @@
+/*
+author:yaohaorong;
+design:;
+update:2014-08-29;
+*/
+/*reset*/
+.wp{font:14px/24px \5FAE\8F6F\96C5\9ED1,"simsun",tahoma,arial,sans-serif;color: #000;background:# url(../img/bg01.jpg) no-repeat center 0;}
+strong{color: #*;}
+em{color: #*;}
+
+/*common*/
+.clearfix:after{display:block;content:"\200B";clear:both;height:0;}
+.clearfix{*zoom:1;}
+.hid{position:absolute;left:-9999px;}
+.xx,.xxx{background:url(../img/spr.png) no-repeat;}
+
+/*page*/
+.main{width: 1000px;margin: 0 auto;}
+.ban{position:relative;}
+	.banner{height: 500px;background:#* url(../img/bg02.jpg) no-repeat center 0;}
+		.intro{text-align: center;}
+		.box{position:absolute;width: *px;}
+
+.content{position:relative;height: 500px;background:#* url(../img/bg03.jpg) no-repeat center 0;}
+	.sec-1{}
+	
+	.sec-2{}
+		.side-l{float:left;}
+		.side-r{float:right;}
+
+	.sec-3{}
+		.rule{line-height: *px;font-size: *px;color: #*;}
+		.rule dt{height: *px;line-height: *px;font-size: *px;color: #*;}
+		.rule dd{}
+
+/*header/footer*/
+
+/*CSS3 animations*/

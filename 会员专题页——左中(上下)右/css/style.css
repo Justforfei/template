@@ -1,0 +1,43 @@
+/*
+author:yaohaorong;
+design:;
+update:2014-08-29;
+*/
+/*reset*/
+.wp{margin-top: 60px;_margin-top: 0;font:14px/24px \5FAE\8F6F\96C5\9ED1,"simsun",tahoma,arial,sans-serif;color: #000;background:# url(../img/bg01.jpg) no-repeat center 0;}
+strong{color: #*;}
+em{color: #*;}
+
+/*common*/
+.clearfix:after{display:block;content:"\200B";clear:both;height:0;}
+.clearfix{*zoom:1;}
+.hid{position:absolute;left:-9999px;}
+.xx,.xxx{background:url(../img/sprite.png) no-repeat;}
+
+/*page*/
+.main{width: 1000px;margin: 0 auto;}
+.ban{position:relative;font-size: *px;color: #*;}
+	.banner{height: 500px;background:#* url(../img/bg02.jpg) no-repeat center 0;}
+		.intro{line-height: *px;font-size: *px;color: #*;text-align: center;}
+		.box{position:absolute;width: *px;}
+
+.content{position:relative;height: 500px;font-size: *px;color: #*;background:#* url(../img/bg03.jpg) no-repeat center 0;}
+	.detail-1{}
+	
+	.detail-2{}
+		.side-l{float:left;}
+		.side-r{float:right;}
+
+	.detail-3{}
+		.rule{line-height: *px;font-size: *px;color: #*;}
+		.rule dt{height: *px;line-height: *px;font-size: *px;color: #*;}
+		.rule dd{}
+
+/*header/footer*/
+.sys_top{width: 100%;min-width: 1000px;}
+	.header{width: 1000px!important;}
+.sys_footer{margin-top: -115px;width: 100%;min-width: 1000px;color: #*;}
+.sys_footer a{color: #*;}
+	.foot{width: 1000px!important;}
+
+/*CSS3 animations*/
